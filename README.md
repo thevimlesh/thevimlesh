@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vimleshkumartripathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimleshkumartripathi" height="30" width="40" /></a>
   <a href="https://github.com/thevimlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thevimlesh" height="30" width="40" /></a>
-target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sujitkic68ba5j" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
